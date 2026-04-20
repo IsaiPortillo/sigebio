@@ -4,6 +4,7 @@
 **Facultad Multidisciplinaria Oriental**  
 **Departamento de Ingenieria y Arquitectura | Ingenieria de Sistemas Informaticos**  
 **Diplomado de Preespecializacion - Actividad Evaluada No. 1**
+**Elaborado por: Adilman Isai Portillo Ceron - PC18035 || Erving Fernando Amaya Villalta - AV16023**
 
 ---
 
@@ -77,9 +78,7 @@ Valores actuales:
 ### Diagrama ER (Entidad-Relacion)
 Deja aqui tu diagrama ER cuando lo tengas listo.
 
-```md
 ![Diagrama ER](docs/ER.jpeg)
-```
 
 ### Esquema Logico
 El esquema logico relacional del sistema se compone de las siguientes entidades:
